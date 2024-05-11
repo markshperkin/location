@@ -18,6 +18,8 @@
     <li><strong>User-Friendly Interface:</strong> Simple and intuitive interface for easy navigation and interaction.</li>
   </ul>
 
+  <h2>Usage</h2>
+  <p>To use the Location App, you need to have a Google Maps API key. Add the API key to the `manifest.kt` file in your Android project.</p>
   
   <h2>Support</h2>
   <p>For support or inquiries, please contact <a href="mailto:markshperkin1@gmail.com">Mark Shperkin</a>.</p>
